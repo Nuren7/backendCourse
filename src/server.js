@@ -7,6 +7,7 @@ import movieRoutes from "./routes/movieRoutes.js";
 import authRoutes from "./routes/authRoutes.js"
 
 
+//Load variables
 config()
 connectDB()
 
